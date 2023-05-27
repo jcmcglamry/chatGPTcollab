@@ -1,0 +1,95 @@
+{
+    "weapons": [
+      {
+        "name": "bow",
+        "price": 20,
+        "type": "ranged"
+      },
+      {
+        "name": "sword",
+        "price": 15,
+        "type": "melee"
+      },
+      {
+        "name": "hammer",
+        "price": 12,
+        "type": "melee"
+      },
+      {
+        "name": "axe",
+        "price": 15,
+        "type": "melee"
+      },
+      {
+        "name": "dagger",
+        "price": 10,
+        "type": "melee"
+      },
+      {
+        "name": "staff",
+        "price": 18,
+        "type": "magic"
+      }
+    ],
+    "armor": [
+      {
+        "name": "shield",
+        "price": 25,
+        "type": "defense"
+      },
+      {
+        "name": "helmet",
+        "price": 12,
+        "type": "defense"
+      },
+      {
+        "name": "boots",
+        "price": 8,
+        "type": "defense"
+      },
+      {
+        "name": "robe",
+        "price": 20,
+        "type": "defense"
+      },
+      {
+        "name": "tunic",
+        "price": 15,
+        "type": "defense"
+      }
+    ],
+    "consumables": [
+      {
+        "name": "potion",
+        "price": 8,
+        "type": "health"
+      },
+      {
+        "name": "scroll",
+        "price": 8,
+        "type": "magic"
+      }
+    ],
+    "accessories": [
+      {
+        "name": "ring",
+        "price": 5,
+        "type": "misc"
+      },
+      {
+        "name": "amulet",
+        "price": 12,
+        "type": "misc"
+      },
+      {
+        "name": "quiver",
+        "price": 6,
+        "type": "misc"
+      },
+      {
+        "name": "trinket",
+        "price": 9,
+        "type": "misc"
+      }
+    ]
+  }
